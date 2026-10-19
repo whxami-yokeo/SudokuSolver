@@ -2,6 +2,10 @@
 
 A Python GUI application for solving standard 9×9 Sudoku puzzles. Enter the given numbers into the grid and click **Solve** to fill in the remaining cells.
 
+[![License: Custom](https://img.shields.io/badge/License-Custom-blue.svg)](LICENSE.md)
+[![Last commit](https://img.shields.io/github/last-commit/whxami-yokeo/SudokuSolver)](https://github.com/whxami-yokeo/SudokuSolver/commits/main)
+
+
 ## Features
 
 - Editable 9×9 Sudoku grid with clearly separated 3×3 boxes.
